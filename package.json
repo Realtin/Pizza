@@ -4,7 +4,7 @@
   "description": "awesome rotating pizza",
   "main": "pizza.js",
   "dependencies": {
-    "color": "^0.8.0",
+    "color": "^0.11.4",
     "get-document-size": "^1.0.0",
     "random-number": "^0.0.6"
   },
